@@ -1,2 +1,2 @@
-<strong>This is the README</strong>
-<em>It is only a test</em>
+#H1 This is the README
+*It is only a test*
